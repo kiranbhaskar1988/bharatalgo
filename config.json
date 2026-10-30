@@ -1,0 +1,32 @@
+{
+    "broker": "ANGEL_ONE",
+    "client_code": "UUYU1010",
+    "pin": "1234",
+    "api_key": "peRAATQk",
+    "totp_secret": "Q6KL6AOUOO7VEW5F54FA2W5UJE",
+    "paper_trading": true,
+    "auto_square_off_time": "15:15",
+    "max_portfolio_loss_pct": 2,
+    "universe": [
+        "NIFTY_50",
+        "NIFTY_NEXT_50",
+        "NIFTY_BANK"
+    ],
+    "symbols": [
+        "BHARTIARTL.NS",
+        "TCS.NS",
+        "LT.NS",
+        "ICICIBANK.NS",
+        "RELIANCE.NS",
+        "HDFCBANK.NS",
+        "TITAN.NS",
+        "PIDILITIND.NS",
+        "ASIANPAINT.NS",
+        "INDUSINDBK.NS",
+        "BPCL.NS",
+        "TATACHEM.NS",
+        "INFY.NS",
+        "SBIN.NS",
+        "AXISBANK.NS"
+    ]
+}

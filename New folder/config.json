@@ -1,0 +1,10 @@
+{
+    "broker": "ANGEL_ONE",
+    "client_code": "A123456",
+    "pin": "1234",
+    "api_key": "YOUR_SMARTAPI_KEY",
+    "totp_secret": "JBSWY3DPEHPK3PXP",
+    "paper_trading": true,
+    "auto_square_off_time": "15:15",
+    "max_portfolio_loss_pct": 2
+}
